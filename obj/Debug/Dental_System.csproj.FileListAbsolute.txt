@@ -1,0 +1,64 @@
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\bin\Debug\Dental_System.exe.config
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\bin\Debug\Dental_System.exe
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\bin\Debug\Dental_System.pdb
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.Properties.Resources.resources
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.GenerateResource.Cache
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.exe
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.pdb
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.csprojResolveAssemblyReference.cache
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.Login.resources
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\bin\Debug\MySql.Data.dll
+C:\Users\carljames_\Desktop\mdi_test\Dental_System\Dental_System\obj\Debug\Dental_System.Home.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\Dental_System.exe.config
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.exe
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.pdb
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\Dental_System.exe
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\Dental_System.pdb
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\MySql.Data.dll
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.csprojResolveAssemblyReference.cache
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Account_Registration_Form.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Home.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Login.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Properties.Resources.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.GenerateResource.Cache
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Employee.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Update_Account.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.My_Patients.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Update_Services.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.View_Profile.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Schedule.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System._1Schedule.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Interop.GEPlugin.dll
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\AxInterop.GEPlugin.dll
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.ResolveComReference.cache
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\Interop.GEPlugin.dll
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\bin\Debug\AxInterop.GEPlugin.dll
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Billing.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Change_Password.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Enter_Password.resources
+C:\Users\carljames_\Documents\Visual Studio 2012\Projects\Dental_System\Dental_System\obj\Debug\Dental_System.Sales_Report.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\bin\Debug\Dental_System.exe.config
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\bin\Debug\Dental_System.exe
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\bin\Debug\Dental_System.pdb
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.csprojAssemblyReference.cache
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.ResolveComReference.cache
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System._1Schedule.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Account_Registration_Form.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Billing.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Change_Password.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Employee.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Enter_Password.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Home.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Login.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.My_Patients.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Properties.Resources.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Sales_Report.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Schedule.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Update_Account.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.Update_Services.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.View_Profile.resources
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.GenerateResource.cache
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.CoreCompileInputs.cache
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.csproj.CopyComplete
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.exe
+C:\Users\deofr\Documents\SOFTWEN\Dental_System\Dental_System\obj\Debug\Dental_System.pdb
